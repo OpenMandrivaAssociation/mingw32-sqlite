@@ -6,7 +6,7 @@
 
 Name:           mingw32-sqlite
 Version:        3.6.6.2
-Release:        %mkrel 1
+Release:        %mkrel 2
 Summary:        MinGW Windows port of sqlite embeddable SQL database engine
 
 License:        Public Domain
