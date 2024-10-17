@@ -11,7 +11,7 @@ Summary:        MinGW Windows port of sqlite embeddable SQL database engine
 
 License:        Public Domain
 Group:          Development/Other
-URL:            http://www.sqlite.org/
+URL:            https://www.sqlite.org/
 Source0:        http://www.sqlite.org/sqlite-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
