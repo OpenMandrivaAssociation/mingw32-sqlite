@@ -24,6 +24,7 @@ Patch2:         sqlite-3.6.6.2-lemon-snprintf.patch
 # Patches for MinGW port.
 Patch1000:      mingw32-sqlite-3.6.6.2-no-undefined.patch
 
+BuildRequires:	make
 BuildRequires:  mingw32-filesystem
 BuildRequires:  mingw32-gcc
 BuildRequires:  mingw32-binutils
